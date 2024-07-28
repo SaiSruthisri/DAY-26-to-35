@@ -4,9 +4,9 @@
  
  DAY 28     Maxi number of K-sum pairs  -- Two pointers  
  
- DAY 29     Determine if two strings are close
+ DAY 29     Determine if two strings are close -- hash maps
  
- DAY 30
+ DAY 30     Equal row & coloumn pairs -- vectors/Hash maps
  
  DAY 31
  
