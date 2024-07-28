@@ -4,7 +4,7 @@
  
  DAY 28     Maxi number of K-sum pairs  -- Two pointers  
  
- DAY 29     Dtermine if two strings are close
+ DAY 29     Determine if two strings are close
  
  DAY 30
  
