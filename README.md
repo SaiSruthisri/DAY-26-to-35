@@ -10,7 +10,7 @@
  
  DAY 31     Can place flowers -- Math & Greedy 
  
- DAY 32
+ DAY 32     Pow(x,n) -- Bit manipulation  
  
  DAY 33
  
