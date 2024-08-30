@@ -12,7 +12,7 @@
  
  DAY 32     Pow(x,n) -- Bit manipulation  
  
- DAY 33
+ DAY 33     Rotate Image -- Most asked qs (Logical) 
  
  DAY 34
  
